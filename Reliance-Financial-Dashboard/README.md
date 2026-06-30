@@ -23,7 +23,7 @@ This Power BI dashboard analyzes the financial performance of Reliance Telecom u
 
 ## Dashboard Preview
 
-![Reliance Dashboard](reliance-dashboard.png)
+![Reliance Dashboard](./reliance-dashboard.png)
 
 ## Files
 
