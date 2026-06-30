@@ -6,26 +6,22 @@ This repository contains Power BI dashboard projects demonstrating my skills in 
 
 ## Projects
 
-### 📊 Reliance Financial Dashboard
+## 📊 Reliance Financial Dashboard
 - Financial KPI Analysis
 - Revenue vs Expense Analysis
 - Budget Tracking
 - Risk Analysis
 - Monthly Performance Trends
-
-📁 Folder: `Reliance-Financial-Dashboard`
-
+  🔗 **Open Project:** [Reliance Financial Dashboard](./Reliance-Financial-Dashboard)
 ---
 
-### 📈 Nestlé Sales Dashboard
+## 📈 Nestlé Sales Dashboard
 - Sales KPI Dashboard
 - Profit Analysis
 - Regional Performance
 - Product Category Analysis
 - Revenue Trends
-
-📁 Folder: `Nestle-Sales-Dashboard`
-
+🔗 **Open Project:** [Nestlé Sales Dashboard](./Nestle-Sales-Dashboard)
 ---
 
 ## Tools & Technologies
